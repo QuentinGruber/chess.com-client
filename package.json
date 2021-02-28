@@ -19,7 +19,9 @@
   "license": "MIT",
   "config": {
     "forge": {
-      "packagerConfig": { "icon": "assets/chesscom_pawn.png"},
+      "packagerConfig": {
+        "icon": "assets/chesscom_pawn.png"
+      },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
